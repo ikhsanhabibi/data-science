@@ -9,5 +9,9 @@
 - conda list env
 
 
+  Anaconda and Git Bash in Windows
+ ```
+  . C:/Users/user/Anaconda3/etc/profile.d/conda.sh
+ ```
 
 latest episode pandas u-3
